@@ -1,8 +1,13 @@
-# Sample application name and/or blogpost title
+# How to flag features in Inferno.js
 
 #### (Optional) In case the blog post is already published, please add: [Read the blog post here](https://configcat.com/blog/)
 
 A few words about the contents of the repository. Whats is this application about, what does it demonstrate? Add a backlink to https://configcat.com
+
+#### Screenshot (Dssktop View)
+
+![Screenshot - Desktop View ](https://user-images.githubusercontent.com/74829200/193362575-71477d9e-1b19-4511-bd96-b6d0c86c6940.png)
+
 
 ## Build & Run
 
