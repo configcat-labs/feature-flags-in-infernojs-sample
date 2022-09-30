@@ -1,1 +1,0 @@
-# Feature flags in infernojs sample (WIP - Not ready)
