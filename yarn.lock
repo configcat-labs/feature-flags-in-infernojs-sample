@@ -3077,6 +3077,18 @@ concat-stream@^1.5.0:
     readable-stream "^2.2.2"
     typedarray "^0.0.6"
 
+configcat-common@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/configcat-common/-/configcat-common-6.0.0.tgz#ccdb9bdafcb6a89144cac17faaab60ac960fed2a"
+  integrity sha512-C/lCeTKiFk9kPElRF3f4zIkvVCLKgPJuzrKbIMHCru89mvfH5t4//hZ9TW8wPJOAje6xB6ZALutDiIxggwUvWA==
+
+configcat-js@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/configcat-js/-/configcat-js-6.0.0.tgz#99b783238b46d0eebeec3305584c783d29253ebc"
+  integrity sha512-bwzvcKyUFjooxetK49ivcV1cGc0fSLc7mUyY0yKTdnxIW9lkf+uua+vqPR1yRhAjAxUl8SgvyU8hqHkYMbPk/g==
+  dependencies:
+    configcat-common "^6.0.0"
+
 confusing-browser-globals@^1.0.5:
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/confusing-browser-globals/-/confusing-browser-globals-1.0.11.tgz#ae40e9b57cdd3915408a2805ebd3a5585608dc81"
@@ -5555,7 +5567,7 @@ inferno-vnode-flags@8.0.3:
   resolved "https://registry.yarnpkg.com/inferno-vnode-flags/-/inferno-vnode-flags-8.0.3.tgz#1bd78745033719596211155ae673bd648b266a78"
   integrity sha512-r+wJZNliJWvtcwBd66L3fMSp+M0rinHLilZeLiAX87+ZVPoXKiTDLVmTRI+1j8dm1XmC3IuAHijVfwELnEmoCQ==
 
-inferno@8.0.3:
+inferno@^8.0.3:
   version "8.0.3"
   resolved "https://registry.yarnpkg.com/inferno/-/inferno-8.0.3.tgz#99124f050a9c60995dbdeef8ac258a936df7e62e"
   integrity sha512-EZJyGfnlNoX4rQj9oX09ZqPmG8Ejrzqb/Y5O1D+QBN84VJ8uQGTqhZdmz3n7mhUnSyHg7VLt+rlbLnlTI4bs4g==

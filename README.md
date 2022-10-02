@@ -1,4 +1,4 @@
-# How to flag features in Inferno.js
+# How to flag features in Inferno.js (WIP - Not ready)
 
 #### (Optional) In case the blog post is already published, please add: [Read the blog post here](https://configcat.com/blog/)
 
