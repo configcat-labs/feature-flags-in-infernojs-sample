@@ -4,7 +4,7 @@
 
 A few words about the contents of the repository. Whats is this application about, what does it demonstrate? Add a backlink to https://configcat.com
 
-#### Screenshot (Dssktop View)
+#### Screenshot (Desktop View)
 
 ![Screenshot - Desktop View ](https://user-images.githubusercontent.com/74829200/193362575-71477d9e-1b19-4511-bd96-b6d0c86c6940.png)
 
@@ -19,9 +19,7 @@ Instructions on how to build and run the application locally. A student or junio
 
 Useful links to technical resources.
 
-Example:
-- Next.js Documentation - learn about Next.js features and API.
-- Learn Next.js - an interactive Next.js tutorial.
+- [Inferno.js Documentation](https://www.infernojs.org/) - learn about Inferno.js features and its API.
 
 [**ConfigCat**](https://configcat.com) also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/).
 
@@ -30,7 +28,7 @@ You can also explore other code samples for various languages, frameworks, and t
 Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
 
 ## Author
-[Your Name](https://github.com/your_name)
+[Chavez harris](https://github.com/codedbychavez)
 
 ## Contributions
 Contributions are welcome!
